@@ -23,5 +23,5 @@ c = st.number_input("Enter 3rd number")
 # Call the function and print the result
 result = max_of_three(a, b, c)
 
-st.text("Largest of 3 numbers: {}".format(result))
+st.title("Largest of 3 numbers: {}".format(result))
 
